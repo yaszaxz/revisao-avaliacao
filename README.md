@@ -1,2 +1,2 @@
-# revisao-avaliacao
-Revisão para a avaliação do dia 11/10 JP
+# Revis-o-prova
+Aula revisional para a avaliação
